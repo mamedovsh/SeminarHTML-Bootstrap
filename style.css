@@ -1,0 +1,8 @@
+
+.carousel-control-next-icon{
+    background-image: url("img/right-arrow-6_icon-icons.com_69947.png");
+}
+
+.carousel-control-prev-icon{
+    filter: brightness(0) saturate(100%) invert(61%) sepia(14%) saturate(3617%) hue-rotate(78deg) brightness(111%) contrast(95%);
+}
